@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Sushi500/HW-Liri_Node_App#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "json-parser": "^1.1.5",
+    "node-spotify-api": "^1.0.7",
     "twitter": "^1.7.1"
   }
 }
