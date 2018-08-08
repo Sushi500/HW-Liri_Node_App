@@ -15,8 +15,10 @@ spotify.search({
 }, function(err, data){
   if (!err) {
     // throw err;
-    for (var i =0; i < 5; i++){
-      console.log(data.tracks.items[i].name);}
+    for (var i =0; i < 2; i++){
+      console.log(data.tracks.items[0].name);
+      console.log(data.tracks.items[1].artists);
+      console.log(data.tracks.items[2].album)}
     
     
   }

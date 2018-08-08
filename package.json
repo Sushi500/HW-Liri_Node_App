@@ -1,5 +1,5 @@
 {
-  "name": "HW-Liri_Node_App",
+  "name": "hw-liri_node_app",
   "version": "1.0.0",
   "description": "",
   "main": "Keys.js",
@@ -21,6 +21,8 @@
     "dotenv": "^6.0.0",
     "json-parser": "^1.1.5",
     "node-spotify-api": "^1.0.7",
+    "spotify": "^0.3.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "devDependencies": {}
 }
